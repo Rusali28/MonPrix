@@ -9,5 +9,4 @@ const Trade = () => {
   );
 };
 
-
 export default Trade
