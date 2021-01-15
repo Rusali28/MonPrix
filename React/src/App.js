@@ -1,21 +1,19 @@
 import "./App.css";
+import Trade from "./Trade";
+import Landing from "./Landing";
+import { BrowserRouter, Route, Switch } from "react-router-dom";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img  className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <BrowserRouter>
+      <div className="App">
+        <Switch>
+          <Route path="/trade" component={Trade} exact />
+          <Route path="/" component={Landing} />
+          <Route component={Error} />
+        </Switch>
+      </div>
+    </BrowserRouter>
   );
 }
 
