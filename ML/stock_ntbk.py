@@ -36,7 +36,7 @@ def predict():
       dataY.append(dataset[i + time_step, 0])
     return numpy.array(dataX), numpy.array(dataY)
 
-  time_step = 50
+  time_step = 20
   X_train, y_train = create_dataset(train_data, time_step)
   X_test, ytest = create_dataset(test_data, time_step)
   print(X_train.shape)
@@ -60,7 +60,7 @@ def predict():
 
   train_predict=scaler.inverse_transform(train_predict)
   test_predict=scaler.inverse_transform(test_predict)
-  model.save('STOCKS.h5')
+  model.save('ML/Models/Stock1.h5')
 
   look_back=50
   x_input=test_data[341:].reshape(1,-1) #previous 100 days data
