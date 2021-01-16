@@ -14,10 +14,8 @@ def test():
 @app.route('/api/predictprice', methods = ['POST'])
 
 def first():
-    #return "Hello"
 
     if request.is_json:
-
         req = request.get_json()
         r1 = req["Stocks"]
         r2 = req["user"]
@@ -30,9 +28,6 @@ def first():
 
         else:
             return {"success": False}, 401
-
-
-
 
 
 if __name__ =="__main__":
