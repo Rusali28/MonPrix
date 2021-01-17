@@ -1,4 +1,5 @@
 import "./App.css";
+import "bulma";
 import Trade from "./Trade";
 import Landing from "./Landing";
 import { BrowserRouter, Route, Switch } from "react-router-dom";
