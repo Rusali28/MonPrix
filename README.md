@@ -64,6 +64,7 @@ This is a unique approach to demystifying the stock market.
 
 
 ### **Tech Stack:**
+<img src="https://github.com/saxenabhishek/MonPrix/blob/hs/ml/nlp/ML/Pics%20Support/tech%20stack.png">
 ##### ML :
 
   1.	Deep Learning
@@ -90,6 +91,8 @@ This is a unique approach to demystifying the stock market.
 ##### Database Tech Stack:
 
 1. MongoDB
+
+
 
   
   ### Demo :
