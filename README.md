@@ -41,6 +41,9 @@ This is a unique approach to demystifying the stock market.
 
 ### Features:
 
+- Real Time Stock Data 
+   - Collectes and analyses Stock Market's Data in Real Time Using Yahoo Finance
+
 - Trading Bot
   - Embrace learning by letting users compete against our AI Bot.
   
