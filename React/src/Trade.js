@@ -7,7 +7,7 @@ import {
   HorizontalGridLines,
   XAxis,
   YAxis
-} 
+}
 from "react-vis";
 import { useState, useEffect } from "react";
 
@@ -25,17 +25,34 @@ const Trade = () => {
     { x: 9, y: 0 },
   ]);
 
-  useEffect(() => {
-    fetch("/time")
-      .then((res) => res.json())
-      .then((data) => {
-        setData(data.time);
-      });
-  }, []);
+  const [Text, setText] = useState("h52");
+
+  // useEffect(() => {
+  //   fetch("http://localhost:3000/api")
+  //     .then((res) => res.json())
+  //     .then((data) => {
+  //       setText(data.time);
+  //     });
+  // },[]);
+
+  // useEffect(() => {
+  //   fetch("http://localhost:3000/red", {
+  //     method: "POST",
+  //     headers: {
+  //       "Content-Type": "application/json",
+  //     },
+  //     body: JSON.stringify(Data),
+  //   })
+  //     .then((res) => res.json())
+  //     .then((data) => {
+  //       console.log(data);
+  //     });
+  // }, []);
 
   return (
     <div>
       <h1>Trade</h1>
+      <p> {Text} </p>
       <Link to="/">Reset</Link>
       <XYPlot height={300} width={300}>
         <VerticalGridLines />
