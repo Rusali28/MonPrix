@@ -19,9 +19,6 @@ Looking at the current market conditions, we thought that it was the right time 
   -  A large population believes that investing in the stock market is risky and full of losses.
   -  While in reality, the stock market encourages good decisions in a company and enables them to grow quickly. It also helps investors make money.
   -  The simple reason for this myth is that beginners aren't educated enough and end up losing a large amount which discourages them.
-  -  The stock market encourages good decisions in a company  and enables growth.
-  -  Investing in stock market - risky and full of losses.
-  -  Lack of knowledge leads to beginners losing large amounts  of money.
   -  Our model provides insights to the user, educating them  about profitable investments in the stock market.
 
 ### The Solution
