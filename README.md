@@ -10,7 +10,7 @@ The stock market is one of the most enriching platforms for investment. It enabl
 
 People have lost thousands of rupees in stock market downfalls in the past. Due to this, whenever the stock market crashes, people incline towards panic withdrawal which in turn leads to more losses. It a vicious circle. So, what’s the solution? Patience and time-tested strategies to prevent further loss of capital and deal with stock market fear.
 
-<br><br>
+<br>
 Looking at the current market conditions, we thought that it was the right time to develop some solutions in which you can break this loop.
 
 
@@ -48,8 +48,6 @@ This is a unique approach to demystifying the stock market.
 
 - Crypto Price Prediction
   - Predicting crypto currency prices for the next 5 days.
-
-
 
 
 ### Tech Stack:
