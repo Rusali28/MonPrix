@@ -39,6 +39,10 @@ This is a unique approach to demystifying the stock market.
 - We encourage you to use your own  judgement to trade instead of  recommendation.
 
 ### Features:
+
+- Trading Bot
+  - Embrace learning by letting users compete against our AI Bot.
+  
 - Stock Prediction
   - Predicting stocks for the next day.
 
@@ -46,8 +50,6 @@ This is a unique approach to demystifying the stock market.
   - Predicting crypto currency prices for the next 5 days.
 
 
-- Trading Bot
-  - Embrace learning by letting users compete against our AI Bot.
 
 
 ### Tech Stack:
