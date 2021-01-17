@@ -2,8 +2,9 @@ import { Link } from "react-router-dom";
 
 const Landing = () => {
   return (
-    <div>
-      <h1>Landing</h1>
+    <div className="hero is-primary">
+      <h1 className="title">Mon Prix</h1>
+      
       <Link to="/trade">Start now</Link>
     </div>
   );
