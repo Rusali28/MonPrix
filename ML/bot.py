@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 
 def getstock(name):
     return web.DataReader(
-        name, data_source="yahoo", start="15-1-2018", end="15-01-2021"
+        name, data_source="yahoo", start="15-1-2020", end="15-01-2021"
     )
 
 
@@ -48,10 +48,19 @@ def buyorsell(df):
         plt.plot(df_close_scaled)
         plt.show()
 
-    response_data = [ {"x": i,"y":j} for i,j in enumerate(df_close.values)]
 
-        
-    return response_data
+    buy = []
+    sell = []
+    response_data = []
+    for i,j in enumerate(df_close.values):
+        response_data.append({"x": i,"y":j})
+        for ii in result:
+            if i == ii[0]:
+                buy.append({"x": i,"y":j})
+            if i == ii[1]:
+                sell.append({"x": i,"y":j})
+
+    return {"res_data":response_data,"buy":buy,"sell":sell}
 
 
 PROD = True
