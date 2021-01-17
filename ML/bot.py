@@ -12,7 +12,7 @@ def getstock(name):
 
 
 def buyorsell(df):
-    M = tf.keras.models.load_model("./ML/STOCKS.h5")
+    M = tf.keras.models.load_model("./ML/Models/STOCKS.h5")
 
     df_close = df["Close"]
     scaler = MinMaxScaler(feature_range=(0, 1))
