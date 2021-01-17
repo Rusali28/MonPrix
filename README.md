@@ -1,7 +1,7 @@
 # MonPrix
 
 ## Team Die Torch
-<img src="">
+<img src="https://github.com/saxenabhishek/MonPrix/blob/hs/ml/nlp/ML/Pics%20Support/Main%20Page.png">
 
 
 ### Abstract
@@ -39,6 +39,10 @@ This is a unique approach to demystifying the stock market.
 - We encourage you to use your own  judgement to trade instead of  recommendation.
 
 ### Features:
+
+- Trading Bot
+  - Embrace learning by letting users compete against our AI Bot.
+  
 - Stock Prediction
   - Predicting stocks for the next day.
 
@@ -46,8 +50,6 @@ This is a unique approach to demystifying the stock market.
   - Predicting crypto currency prices for the next 5 days.
 
 
-- Trading Bot
-  - Embrace learning by letting users compete against our AI Bot.
 
 
 ### Tech Stack:
@@ -102,7 +104,7 @@ This is a unique approach to demystifying the stock market.
 Abhishek Saxena
 
 <p align="center">
-<img src = ""  height="120" alt="Abhishek Saxena">
+<img src = "https://avatars0.githubusercontent.com/u/33656173?s=400&u=a411c58cfffec9bf59da192674093abf4b82bd04&v=4"  height="120" alt="Abhishek Saxena">
 </p>
 <p align="center">
 <a href = "https://github.com/harshshaw"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
@@ -118,7 +120,7 @@ Abhishek Saxena
 Harsh Sharma
 
 <p align="center">
-<img src = ""  height="120" alt="Harsh Sharma">
+<img src = "https://avatars.githubusercontent.com/harshgeek4coder"  height="120" alt="Harsh Sharma">
 </p>
 <p align="center">
 <a href = "https://github.com/harshgeek4coder"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
@@ -134,7 +136,7 @@ Harsh Sharma
 Saisha Shetty
 
 <p align="center">
-<img src = ""  height="120" alt="Saisha Shetty">
+<img src = "https://avatars.githubusercontent.com/SaishaShetty"  height="120" alt="Saisha Shetty">
 </p>
 <p align="center">
 <a href = ""><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
@@ -149,7 +151,7 @@ Saisha Shetty
 Rusali Saha
 
 <p align="center">
-<img src = ""  height="120" alt="Rusali Saha">
+<img src = "https://avatars.githubusercontent.com/rusali28"  height="120" alt="Rusali Saha">
 </p>
 <p align="center">
 <a href = ""><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
