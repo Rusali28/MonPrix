@@ -6,11 +6,10 @@
 
 ### Abstract
 
-The stock market fear is a real thing, and why won’t it be?Among the uncertainties and inevitable volatility, how can one trust the market cycle and go with it?Especially when it’s the matter of our hard-earned money being put at stake!
-After all who wants a loss right?
-People have lost thousands of rupees in stock market downfalls in the past.Due to this, whenever the stock market crashes, people incline towards panic withdrawal which in turn leads to more losses. It a vicious circle.So, what’s the solution? Patience and time-tested strategies to prevent further loss of capital and deal with stock market fear.
+The stock market is one of the most enriching platforms for investment. It enables quick growth and success for companies. However, given the uncertainties and inevitable volatility, how can one trust the market cycle and go with it? 
 
-Volatility in the stock markets increases uncertainty. As an investor, it becomes impossible to assess if the markets will crash further or recover. Typically, investors don’t like uncertainty and tend to panic when such situations arise. Also, panic breeds mistakes. And, in a volatile market, mistakes easily translate to losses. Therefore, investors find themselves trapped in a vicious cycle.
+People have lost thousands of rupees in stock market downfalls in the past. Due to this, whenever the stock market crashes, people incline towards panic withdrawal which in turn leads to more losses. It a vicious circle. So, what’s the solution? Patience and time-tested strategies to prevent further loss of capital and deal with stock market fear.
+
 <br><br>
 Looking at the current market conditions, we thought that it was the right time to develop some solutions in which you can break this loop.
 
@@ -21,39 +20,34 @@ Looking at the current market conditions, we thought that it was the right time 
   -  The simple reason for this myth is that beginners aren't educated enough and end up losing a large amount which discourages them.
   -  Our model provides insights to the user, educating them  about profitable investments in the stock market.
 
+
 ### The Solution
-- Instead of throwing someone into a simulation or in between paragraphs of long marketing theory. We offer simpler solutions
+- Instead of throwing someone into a simulation or in between paragraphs of long marketing theory we offer simpler solutions
 - We embrace learning by letting users compete against our AI Bot.
-- After the user enters a time period and stock symbol. We run a simulation to show strategies that could be used to make a profit on this stock.
+- After the user enters a time period and stock symbol, we run a simulation to show strategies that could be used to make a profit on this stock.
 - This breaks the myth for two reasons -
     1. Establishes the Market isn't gambling 
     2. Making a profit based only on previous trends is easy enough for a simple bot to learn
 
-- When the user is confident we can let them practice on the same stock as the bot. Learning by competing this way is much faster and natural compared to reading theories about how others invested.
-- This is a unique approach to demystifying the stock market. Compared to similar products we are superior
-    1. No sign ups required ( we don't steal data)
-    2. You learn by looking at where an AI bot traded money only by going through the charts. 
-    3. We encourage you to use your own judgement to trade instead of recommendation.
-- After the user provides input, we run a simulation to
-- show profitable strategies on this stock.
-- After	learning,	the	user	can	practice	on	the	same  stock as the bot.     
+- Learning by competing this way is much faster and natural compared to reading theories about how others invested.
 
 
-## How are we  different?
+### How are we  different?
+This is a unique approach to demystifying the stock market. 
 - No sign ups required ( we don't steal  data)
 - You learn by looking at where an AI bot  traded money only by going through the  charts.
 - We encourage you to use your own  judgement to trade instead of  recommendation.
 
-## Features:
+### Features:
 - Stock Prediction
-  - Predicting stocks for the next  day.
+  - Predicting stocks for the next day.
 
 - Crypto Price Prediction
-  - Predicting crypto currency prices for  the next 5 days.
+  - Predicting crypto currency prices for the next 5 days.
 
 
 - Trading Bot
-  - Embrace learning by letting users  compete against our AI Bot.
+  - Embrace learning by letting users compete against our AI Bot.
 
 
 ### Tech Stack:
