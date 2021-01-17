@@ -60,10 +60,11 @@ This is a unique approach to demystifying the stock market.
 
 - Crypto Price Prediction
   - Predicting crypto currency prices for the next 5 days.
+  <br>
 
+## **Link to Presentation** : [Click Here](https://drive.google.com/file/d/1aEWihGElW1wN76toCXB_KnI4YMohixoZ/view?usp=sharing)
 
-
-### **Tech Stack:**
+## **Tech Stack:**
 <img src="https://github.com/saxenabhishek/MonPrix/blob/hs/ml/nlp/ML/Pics%20Support/tech%20stack.png">
 ##### ML :
 
@@ -99,9 +100,7 @@ This is a unique approach to demystifying the stock market.
    <img src="https://github.com/saxenabhishek/MonPrix/blob/hs/ml/nlp/ML/Pics%20Support/Landing%20Page.jpeg">
   <img src="https://github.com/saxenabhishek/MonPrix/blob/hs/ml/nlp/ML/Pics%20Support/Landing%20Page-2.jpeg">
     <img src="https://github.com/saxenabhishek/MonPrix/blob/hs/ml/nlp/ML/Pics%20Support/AI%20Bot-%20Trade%20Graph.jpeg">
-      <img src="">
-        <img src="">
-         <img src="">
+   
         <br>
  
   #### Challenges we ran into:
