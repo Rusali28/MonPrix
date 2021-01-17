@@ -48,7 +48,10 @@ def buyorsell(df):
         plt.plot(df_close_scaled)
         plt.show()
 
-    return result
+    response_data = [ {"x": i,"y":j} for i,j in enumerate(df_close.values)]
+
+        
+    return response_data
 
 
 PROD = True
