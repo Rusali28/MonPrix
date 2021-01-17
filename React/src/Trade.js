@@ -1,4 +1,4 @@
-// import { Link } from "react-router-dom";
+import { Link } from "react-router-dom";
 import "../node_modules/react-vis/dist/style.css";
 import {
   XYPlot,
