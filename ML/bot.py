@@ -7,12 +7,12 @@ import matplotlib.pyplot as plt
 
 def getstock(name):
     return web.DataReader(
-        name, data_source="yahoo", start="15-1-2018", end="15-01-2021"
+        name, data_source="yahoo", start="15-1-2020", end="15-01-2021"
     )
 
 
 def buyorsell(df):
-    M = tf.keras.models.load_model("./ML/STOCKS.h5")
+    M = tf.keras.models.load_model("./ML/Models/STOCKS.h5")
 
     df_close = df["Close"]
     scaler = MinMaxScaler(feature_range=(0, 1))
@@ -48,7 +48,19 @@ def buyorsell(df):
         plt.plot(df_close_scaled)
         plt.show()
 
-    return result
+
+    buy = []
+    sell = []
+    response_data = []
+    for i,j in enumerate(df_close.values):
+        response_data.append({"x": i,"y":j})
+        for ii in result:
+            if i == ii[0]:
+                buy.append({"x": i,"y":j})
+            if i == ii[1]:
+                sell.append({"x": i,"y":j})
+
+    return {"res_data":response_data,"buy":buy,"sell":sell}
 
 
 PROD = True

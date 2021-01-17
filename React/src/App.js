@@ -1,4 +1,5 @@
 import "./App.css";
+import "bulma";
 import Trade from "./Trade";
 import Landing from "./Landing";
 import { BrowserRouter, Route, Switch } from "react-router-dom";
@@ -8,9 +9,12 @@ function App() {
     <BrowserRouter>
       <div className="App">
         <Switch>
-          <Route path="/trade" component={Trade} exact />
-          <Route path="/" component={Landing} />
-          <Route component={Error} />
+          <Route path="/trade">
+            <Trade />
+          </Route>
+          <Route path="/">
+            <Landing />
+          </Route>
         </Switch>
       </div>
     </BrowserRouter>
