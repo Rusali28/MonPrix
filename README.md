@@ -1,7 +1,8 @@
 <img align="left" width="120" height="120" src="https://github.com/saxenabhishek/MonPrix/blob/hs/ml/nlp/ML/Pics%20Support/stock-logo.png">
 
-# MonPrix 
-## Team Die Torch
+
+# MonPrix
+## Team Die Torch  
 <img src="https://github.com/saxenabhishek/MonPrix/blob/hs/ml/nlp/ML/Pics%20Support/Main%20Page.png">
 
 
@@ -185,4 +186,9 @@ Rusali Saha
 </tr>
   </table>
   
+  <p align="center">
   
+   [![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://github.com/saxenabhishek/MonPrix/)
+   [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/saxenabhishek/MonPrix/)
+   [![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://github.com/saxenabhishek/MonPrix/)
+   </p>
