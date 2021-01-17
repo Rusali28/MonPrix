@@ -4,7 +4,7 @@
 <img src="https://github.com/saxenabhishek/MonPrix/blob/hs/ml/nlp/ML/Pics%20Support/Main%20Page.png">
 
 
-### Abstract
+### **Abstract**
 
 The stock market is one of the most enriching platforms for investment. It enables quick growth and success for companies. However, given the uncertainties and inevitable volatility, how can one trust the market cycle and go with it? 
 
@@ -14,14 +14,15 @@ People have lost thousands of rupees in stock market downfalls in the past. Due 
 Looking at the current market conditions, we thought that it was the right time to develop some solutions in which you can break this loop.
 
 
-### The Problem
+### **The Problem**
   -  A large population believes that investing in the stock market is risky and full of losses.
   -  While in reality, the stock market encourages good decisions in a company and enables them to grow quickly. It also helps investors make money.
   -  The simple reason for this myth is that beginners aren't educated enough and end up losing a large amount which discourages them.
   -  Our model provides insights to the user, educating them  about profitable investments in the stock market.
 
 
-### The Solution
+### **The Solution**
+
 - Instead of throwing someone into a simulation or in between paragraphs of long marketing theory we offer simpler solutions
 - We embrace learning by letting users compete against our AI Bot.
 - After the user enters a time period and stock symbol, we run a simulation to show strategies that could be used to make a profit on this stock.
@@ -32,13 +33,14 @@ Looking at the current market conditions, we thought that it was the right time 
 - Learning by competing this way is much faster and natural compared to reading theories about how others invested.
 
 
-### How are we  different?
+### **How are we  different?**
 This is a unique approach to demystifying the stock market. 
 - No sign ups required ( we don't steal  data)
 - You learn by looking at where an AI bot  traded money only by going through the  charts.
 - We encourage you to use your own  judgement to trade instead of  recommendation.
 
-### Features:
+
+### **Features:**
 
 - Trading Bot
   - Embrace learning by letting users compete against our AI Bot.
@@ -50,7 +52,8 @@ This is a unique approach to demystifying the stock market.
   - Predicting crypto currency prices for the next 5 days.
 
 
-### Tech Stack:
+
+### **Tech Stack:**
 ##### ML :
 
   1.	Deep Learning
