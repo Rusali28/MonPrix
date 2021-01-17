@@ -65,8 +65,6 @@ This is a unique approach to demystifying the stock market.
 
 ### **Tech Stack:**
 <img src="https://github.com/saxenabhishek/MonPrix/blob/hs/ml/nlp/ML/Pics%20Support/tech%20stack.png">
-
-
 ##### ML :
 
   1.	Deep Learning
@@ -101,7 +99,9 @@ This is a unique approach to demystifying the stock market.
    <img src="https://github.com/saxenabhishek/MonPrix/blob/hs/ml/nlp/ML/Pics%20Support/Landing%20Page.jpeg">
   <img src="https://github.com/saxenabhishek/MonPrix/blob/hs/ml/nlp/ML/Pics%20Support/Landing%20Page-2.jpeg">
     <img src="https://github.com/saxenabhishek/MonPrix/blob/hs/ml/nlp/ML/Pics%20Support/AI%20Bot-%20Trade%20Graph.jpeg">
-     
+      <img src="">
+        <img src="">
+         <img src="">
         <br>
  
   #### Challenges we ran into:
@@ -173,8 +173,8 @@ Rusali Saha
 <img src = "https://avatars.githubusercontent.com/rusali28"  height="120" alt="Rusali Saha">
 </p>
 <p align="center">
-<a href = ""><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "">
+<a href = "https://github.com/Rusali28"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/rusali-saha-0409921a3/">
 <img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
 </a>
 </p>
