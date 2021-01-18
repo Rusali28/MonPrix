@@ -17,6 +17,7 @@ def buyorsell(df):
     df_close = df["Close"]
     scaler = MinMaxScaler(feature_range=(0, 1))
     df_close_scaled = scaler.fit_transform(np.array(df_close).reshape(-1, 1))
+    print("Length of data is ",len(df_close_scaled))
 
     if not PROD:
         df_close_scaled = df_close_scaled[-500:]
