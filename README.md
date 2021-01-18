@@ -61,7 +61,17 @@ This is a unique approach to demystifying the stock market.
 - Crypto Price Prediction
   - Predicting crypto currency prices for the next 5 days.
   <br>
-
+  
+  ### Setup:
+  You Need to Set-up an Virtual environment by installing dependencies mentioned in requirements.txt First.
+  
+  ```
+  1. start ML/app.py
+  
+  2.Open build/index.html
+  
+  ```
+  
 ## **Link to Presentation** : [Click Here](https://drive.google.com/file/d/1aEWihGElW1wN76toCXB_KnI4YMohixoZ/view?usp=sharing)
 
 ## **Tech Stack:**
