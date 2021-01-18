@@ -124,8 +124,8 @@ This is a unique approach to demystifying the stock market.
   #### Challenges we ran into:
   -  Since our project requires a huge database of all the Stocks, it was initially a challenge to think of ideas to maintain and update the databases. 
      For this, we can use any cloud-based platform. 
-  -  The project requires a solid back-end with the integration of front-end using ReactJS Framework
-     Therefore its implementation was quite a challenge as it was a new concept and we had to learn and implement a lot of new concepts in a very limited period of time.
+  -  The project requires a solid back-end with the integration of front-end using ReactJS Framework.
+     Therefore being ML Developers, its implementation was quite a challenge as it was a new concept and we had to learn and implement a lot of new concepts in a very limited period of time.
   -  But all in all, it was great fun building this project together.
 
   
