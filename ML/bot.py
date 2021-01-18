@@ -49,19 +49,21 @@ def buyorsell(df):
         plt.plot(df_close_scaled)
         plt.show()
 
+    
+    response_data = [{"x": i,"y":j} for i,j in enumerate(df_close.values)]
 
+
+    risk = 1
     buy = []
     sell = []
-    response_data = []
-    for i,j in enumerate(df_close.values):
-        response_data.append({"x": i,"y":j})
-        for ii in result:
-            if i == ii[0]:
-                buy.append({"x": i,"y":j})
-            if i == ii[1]:
-                sell.append({"x": i,"y":j})
+    for ii in result:
+        b = df_close.values[ii[0]]
+        s = df_close.values[ii[1]]
+        risk *=s/b
+        buy.append({"x": ii[0], "y":b})
+        sell.append({"x": ii[1],"y":s})
 
-    return {"res_data":response_data,"buy":buy,"sell":sell}
+    return {"res_data":response_data,"risk":risk,"buy":buy,"sell":sell,"fail":1}
 
 
 PROD = True
