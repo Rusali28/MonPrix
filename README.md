@@ -52,6 +52,9 @@ This is a unique approach to demystifying the stock market.
 - Real Time Stock Data 
    - Collects and analyses Stock Market's Data in Real Time Using Yahoo Finance
    
+ - Real Time Sentiment Analysis via Twitter 
+   - To Analyse and perform joint Sentiment analysis and Price Predictions for Stock Market's Data in Real Time Using Twitter API For AI Bot
+   
  - Graphical Interface
    - Analyses The Bot's Performance to let user know about Stock's Performance
   
@@ -60,7 +63,10 @@ This is a unique approach to demystifying the stock market.
 
 - Crypto Price Prediction
   - Predicting crypto currency prices for the next 5 days.
+  <br><br>
+  ## **Flowchart**:
   <br>
+  <img align="center" src="https://github.com/saxenabhishek/MonPrix/blob/hs/ml/nlp/ML/Pics%20Support/Flowchart.jpeg">
   
   ### Setup:
   You Need to Set-up an Virtual environment by installing dependencies mentioned in [requirements.txt](https://github.com/saxenabhishek/MonPrix/blob/main/ML/requirements.txt) First.
@@ -76,6 +82,8 @@ This is a unique approach to demystifying the stock market.
 
 ## **Tech Stack:**
 <img src="https://github.com/saxenabhishek/MonPrix/blob/hs/ml/nlp/ML/Pics%20Support/tech%20stack.png">
+
+
 ##### ML :
 
   1.	Deep Learning
