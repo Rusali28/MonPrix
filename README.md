@@ -63,7 +63,7 @@ This is a unique approach to demystifying the stock market.
   <br>
   
   ### Setup:
-  You Need to Set-up an Virtual environment by installing dependencies mentioned in requirements.txt First.
+  You Need to Set-up an Virtual environment by installing dependencies mentioned in [requirements.txt](https://github.com/saxenabhishek/MonPrix/blob/main/ML/requirements.txt) First.
   
   ```
   1. start ML/app.py
@@ -111,7 +111,7 @@ This is a unique approach to demystifying the stock market.
   <img src="https://github.com/saxenabhishek/MonPrix/blob/hs/ml/nlp/ML/Pics%20Support/Landing%20Page-2.jpeg">
     <img src="https://github.com/saxenabhishek/MonPrix/blob/hs/ml/nlp/ML/Pics%20Support/AI%20Bot-%20Trade%20Graph.jpeg">
    
-        <br>
+     
  
   #### Challenges we ran into:
   -  Since our project requires a huge database of all the Stocks, it was initially a challenge to think of ideas to maintain and update the databases. 
