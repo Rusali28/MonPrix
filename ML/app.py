@@ -6,25 +6,25 @@ import bot
 
 app = Flask(__name__)
 
-@app.route('/',methods = ['POST']):
+@app.route('/',methods = ['POST'])
 def Hello():
     return "Hey, you aren't at the right place. Go back!"
 
 @app.route('/api/checkstock',methods = ['POST'])
 def Check_stock():
+    print(request.data)
     if request.is_json:
         req = request.get_json()
+        print(req)
         ST = req["Stock"]
         print(ST)
         try:
             df = bot.getstock(ST)
         except:
-            return {"MSG":"Can you try again?"}
+            return {"MSG":"Can you try again?","fail":0}
         return bot.buyorsell(df)
         
             
-
-
 @app.route('/red', methods = ['POST'])
 def first():
     if request.is_json:
